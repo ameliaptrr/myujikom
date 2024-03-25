@@ -12,6 +12,7 @@ public class FormAbout extends javax.swing.JFrame {
 
     /**
      * Creates new form FormAbout
+     * diubah
      */
     public FormAbout() {
         initComponents();
